@@ -14,6 +14,7 @@ How to use
 Glossary
 ----------
 *Under Construction - thank you for your understanding*
+
 | Term | Use |
 |---|---|
 |<div>| Defines elements; does not have any defined style of its own |
