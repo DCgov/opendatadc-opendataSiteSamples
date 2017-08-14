@@ -5,7 +5,7 @@ This repository is under construction, thank you for your patience.
 
 Introduction
 ----------
-These files 
+<b>Coming soon...</b>
 
 How to use
 ----------
@@ -33,7 +33,12 @@ col-'size'-'value'|The way Bootstrap defines the page behavior; 'size' defines t
 
 Advanced Usage
 ----------
-<b>Coming soon...</b>
+While these samples should allow for a number of the elements seen on DC's Open Data pages to be recreated there are certain aspects that may require some additional modifications to properly scale based on your desired elements.
+The ESRI open data sites are based on bootstrap and use it for much of their reactivity. To allow for maximum configurability we recommend using just code within a single text box. While ESRI's tools can be very helpful, those experienced with HTML may find it easier to work almost exclusively with the HTML.
+
+A few specific recommendations for those working with the html:
+-when placing an image alongside text the use of either sm, md, or lg as break points may be best based on your image size, we recommend trying each to see what works best for your specific layout
+-while many of the samples assume equal sections for each element, if a single element is intended to stand out or take more space, we recommend playing with the way the bootstrap columns are split among the elements to achieve your desired layout
 
 Contributing
 ------------
