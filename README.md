@@ -11,6 +11,16 @@ How to use
 ----------
 <b>Coming soon...</b>
 
+File | Description | Link
+3-cards.html| |
+4-cards.html| |
+5-medallions.html| |
+6-medallions.html| |
+footer-sample.html| |
+left_image-right_text-with-buttons.html| |
+three-horizontal_w-one-top_two-bottom.html| |
+top_w_bottom-left-right.html| |
+
 Glossary
 ----------
 *Under Construction - thank you for your understanding*
