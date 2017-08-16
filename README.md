@@ -12,7 +12,7 @@ How to use
 <b>Coming soon...</b>
 
 File | Description | Link
-3-cards.html| |
+3-cards.html| | img/3-cards.PNG
 4-cards.html| |
 5-medallions.html| |
 6-medallions.html| |
