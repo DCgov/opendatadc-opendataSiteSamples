@@ -11,8 +11,8 @@ How to use
 ----------
 <b>Coming soon...</b>
 
-File | Description | Link
------|-----
+ File | Description | Link
+---|---
 3-cards.html| | img/3-cards.PNG
 4-cards.html| |
 5-medallions.html| |
