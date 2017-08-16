@@ -13,7 +13,7 @@ How to use
 
  File | Description | Link
 ---|---|----
-3-cards.html| | <a src="img/3-cards.PNG" target="_blank">sample image</a>
+3-cards.html| | <a href="img/3-cards.PNG" target="_blank">sample image</a>
 4-cards.html| |
 5-medallions.html| |
 6-medallions.html| |
