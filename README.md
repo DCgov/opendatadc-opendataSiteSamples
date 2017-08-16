@@ -13,14 +13,13 @@ How to use
 
  File | Description | Link
 ---|---|----
-3-cards.html| | <a href="img/3-cards.PNG" target="_blank">sample image</a>
-4-cards.html| |
-5-medallions.html| |
-6-medallions.html| |
-footer-sample.html| |
-left_image-right_text-with-buttons.html| |
-three-horizontal_w-one-top_two-bottom.html| |
-top_w_bottom-left-right.html| |
+3-cards.html| | <a href="img/3-cards.PNG">sample image</a>
+4-cards.html| | <a href="img/4-cards.PNG">sample image</a>
+5-medallions.html| | <a href="img/5-medallions.PNG">sample image</a>
+6-medallions.html| | <a href="img/6-medallions.PNG">sample image</a>
+footer-sample.html| | <a href="img/footer-sample.PNG">sample image</a>
+left_image-right_text-with-buttons.html| | <a href="img/left_image-right_test-with-buttons.PNG">sample image</a>
+top_w_bottom-left-right.html| | <a href="img/top_w_bottom-left-right.PNG">sample image</a>
 
 Glossary
 ----------
