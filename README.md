@@ -11,6 +11,22 @@ How to use
 ----------
 <b>Coming soon...</b>
 
+ Term | Use
+---|---
+div| Defines elements; does not have any defined style of its own
+br| Inserts a break between elements
+a| Used to define text that links to a url or resource; text between the open and closing tag will be linked; see href
+p| A standard tag used for text, not always necessary but can help with code readability
+ul| An unordered list; the opening tag that contains li elements
+li| List items contained within ul or ol elements
+img| Used to place an image; must be paired with a 'scr' tag to link file
+span| allows for the insertion of style elements within another element
+h#| This tag applies a header style to the text within; 1 being the largest and 6 being the smallest
+href=""| Used in conjunction with 'a' tag; place url or source link in opening tag to make related text linked
+src=""| Used in conjunction with 'img' tag; place url for img link in opening tag to add linked image
+alt=""| Allows for 'alt' text to be included; important to readability of pages for page readers
+
+
  File | Description | Link
 ---|---
 3-cards.html| | img/3-cards.PNG
