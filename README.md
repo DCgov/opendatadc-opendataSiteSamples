@@ -95,9 +95,13 @@ src=""| Used in conjunction with 'img' tag; place url for img link in opening ta
 alt=""| Allows for 'alt' text to be included; important to readability of pages for page readers
 col-'size'-'value'|The way Bootstrap defines the page behavior; 'size' defines the screen size where the behavior occurs; 'value' defines how much of the page the object fills
 
-Advanced Usage
+Tips for Usage
 ----------
-<b>Coming soon...</b>
+<b>Create a staging page</b> - the layout builder does not have an undo feature, nor does it create back ups.
+<b>Saving images</b>- store your images on a dc.gov content manager or other approved source.
+<b>Keep the comments</b> - leave the comments in the sample code for any future admins to reference.
+<b>Multi-testing</b> - preview your site on multiple devices.
+<b>Ask for peer review</b> - we are a team, and no one is as smart as all of us.
 
 Contributing
 ------------
