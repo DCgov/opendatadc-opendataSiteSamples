@@ -38,10 +38,17 @@ We use PNG files for images. Use these sizes for images,
 
 How to Use
 ----------
-This collection of elements is designed for use with Esri's opendata site <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Layout Builder</a>. 
+This collection of elements is designed for use with Esri's opendata site <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Layout Builder</a>. Elements are created within <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_943AEBF0EEA74B60BEE4AEF1EF8FFC58">Text Cards</A> and organized into <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_11FF2ACF716C4DB4BC9D9C7CEF7A5DC0">Rows.</a>
 
-    Start by copying the code samples into a text or hmtl text editor.
-    Each contains stepped comments identified by the To use simply drop into a text box and replace images, text, and link urls as needed.
+<li> Start by copying the code samples into a text, hmtl text editor or prefered staging area</li>
+
+<li> Follow the stepped comments identified by the exclamation marks</li>
+
+<li> Replace dummy image links with your image links
+    
+<li> Look for text that are in ALL CAPS and replace those with your content/text - including titles, paragraphs, web links, emails, etc.</li>
+    
+<li> Paste your final edited code sample into a <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_943AEBF0EEA74B60BEE4AEF1EF8FFC58">Text Card</a> in the open data <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_11FF2ACF716C4DB4BC9D9C7CEF7A5DC0">Rows.</a></li>
 
 Shared Values
 ----------
