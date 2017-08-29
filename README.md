@@ -31,7 +31,7 @@ Use these sizes for images,
     Card Thumbnails at 200x300
     Medallions at 102x102
     Featured at 800x500
-    Row Banners are subjective, but larger is better. Open data sites are responsive and will adjust when browsers are resized. We've used 5300x1800 and 2100x400. 
+    Row Banners are subjective, but larger is better. Sites are responsive so we've used 5300x1800 and 2100x400. 
 
 {INCLUDE ESRI STORY MAP TEMPLATES?}
 
