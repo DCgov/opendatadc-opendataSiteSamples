@@ -2,21 +2,24 @@
 
 What is Here
 ----------
-The District of Columbia government has created its open data site using the <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Esri ArcGIS open data</a> platform. This provides several widget and card elements for easy drag, drop and configuration provided users have a mature ArcGIS Online organization containing data and web apps. In addition to these, DC government has created a collection of its own custom elements to further the open data site. Here you will find code samples for DC open data elements along with helpful steps to begin.
+The District of Columbia government has created its open data site using the <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Esri ArcGIS open data</a> platform. This provides several widget and card elements for easy drag, drop and configuration provided users have a mature ArcGIS Online organization containing data and web apps. In addition to these, DC government has created a collection of its own custom elements to further open data sites. Here you will find code samples for DC open data elements along with helpful steps to begin.
+
 
 Get Organized
 ----------
-We are excited that you have chosen to lead and build an DC open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data.  Begin by working with a smaller focus. You can always grow the site and its pages.
+We are excited that you have chosen to lead and build a DC open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data. Begin by working with a smaller focus. You can always grow the site and its pages.
 
     Identify an Open Data Team
-        Administrator - one admin who will build the site
+        Administrator - one admin who will build and manage the site
         Content Editors - group who will author written narratives, create web apps, quality check
-        Data Curators - group who will act as data owners
+        Data Curators - group who will act as data owners, quality check and work with OCTO to publish
+        IT Leads - some agencies have developers or IT leads who may want to participate
 
     Inventory Agency Content
         Data on http://opendata.dc.gov
         Apps by agency employees
         New data to curate
+
 
 Gather Your Toolbox
 ----------
@@ -32,9 +35,10 @@ We use PNG files for images. Use these sizes for images,
     102 x 102 for Medallions
     800 x 500 for Featured Image
     
-    Row Banners are subjective, but larger is better. Sites are responsive so we've used 5300x1800 and 2100x400. 
+    Row banner images are subjective, but larger is better. Sites are responsive so we've used 5300 x 1800 and 2100 x 400. 
 
-{INCLUDE ESRI STORY MAP TEMPLATES?}
+<b>{INCLUDE ESRI STORY MAP TEMPLATES?}</b>
+
 
 How to Use
 ----------
@@ -50,6 +54,7 @@ This collection of elements is designed for use with Esri's opendata site <a hre
     
 <li> Paste your final edited code sample into a <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_943AEBF0EEA74B60BEE4AEF1EF8FFC58">Text Card</a> in the open data <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_11FF2ACF716C4DB4BC9D9C7CEF7A5DC0">Row.</a></li>
 
+
 Shared Values
 ----------
 
@@ -59,6 +64,16 @@ Shared Values
 <li> Author impactful narratives to story tell the data and illuminate the problem follow by resolution. It's okay to use pronouns.</li>
 <li> No kitchen sink apps or pages with overloaded content. Rather, focused stories and supporting app.
 <li> There are 900+ data layers in <a href="http://opendata.dc.gov">opendata.dc.gov</a>. Consider it as a source.</li>
+
+
+Must Haves
+----------
+We are one DC government. Let's do our best to provide cohesive open data sites. Please make sure these are included in your site,
+
+<li> All app cards need a data download link</li>
+<li> The third column in footer element needs to remain, linking to important dc.gov resources</li>
+<li> On homepage, the Tools for Building & Development row needs to remain however we can work with placement and coloring</li>
+
 
 Glossary
 ----------
