@@ -23,8 +23,8 @@ Gather Your Toolbox
 ----------
 Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use, 
 
-<a href="https://www.jetbrains.com/pycharm/">Pycharm</a>
-<a href="https://www.jetbrains.com/pycharm/">Another</a>
+<a href="https://www.jetbrains.com/pycharm/">Pycharm</a> <br>
+<a href="https://www.jetbrains.com/pycharm/">Another</a> <br>
 <a href="https://www.jetbrains.com/pycharm/">Another</a>
 
 Open data sites use Bootstrap to create custom elements. We recommend familiarizing yourself with <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap</a> concepts.
