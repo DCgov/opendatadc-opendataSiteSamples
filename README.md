@@ -26,11 +26,12 @@ Open data sites use Bootstrap to create custom elements. We recommend familiariz
     <a href="https://www.jetbrains.com/pycharm/">Another</a> <br>
     <a href="https://www.jetbrains.com/pycharm/">Another</a>
 
-Use these sizes for images,
+We use PNG files for images. Use these sizes for images,
 
-    Card Thumbnails at 200x300
-    Medallions at 102x102
-    Featured at 800x500
+    200 x 300 for Card Thumbnails
+    102 x 102 for Medallions
+    800 x 500 for Featured Image
+    
     Row Banners are subjective, but larger is better. Sites are responsive so we've used 5300x1800 and 2100x400. 
 
 {INCLUDE ESRI STORY MAP TEMPLATES?}
