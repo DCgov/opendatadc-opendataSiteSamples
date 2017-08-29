@@ -98,10 +98,10 @@ col-'size'-'value'|The way Bootstrap defines the page behavior; 'size' defines t
 Tips for Usage
 ----------
 <b>Create a staging page</b> - the layout builder does not have an undo feature, nor does it create back ups.
-<b>Saving images</b>- store your images on a dc.gov content manager or other approved source.
-<b>Keep the comments</b> - leave the comments in the sample code for any future admins to reference.
-<b>Multi-testing</b> - preview your site on multiple devices.
-<b>Ask for peer review</b> - we are a team, and no one is as smart as all of us.
+<br><b>Saving images</b>- store your images on a dc.gov content manager or other approved source.
+<br><b>Keep the comments</b> - leave the comments in the sample code for any future admins to reference.
+<br><b>Multi-testing</b> - preview your site on multiple devices.
+<br><b>Ask for peer review</b> - we are a team, and no one is as smart as all of us.
 
 Contributing
 ------------
