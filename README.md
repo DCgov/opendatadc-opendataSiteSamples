@@ -20,9 +20,12 @@ We are excited that you have chosen to lead and build an DC open data site. Just
       New data to curate
 
 Gather Your Toolbox
+----------
 Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use,
 
+    <a href="https://www.jetbrains.com/pycharm/">Pycharm</a>
 
+    
 Shared Values
 ----------
 <li> Data visualized is data downloadable - including spreadsheets. If the data isn't available, let's not have our users "windows shop" here.</li>
