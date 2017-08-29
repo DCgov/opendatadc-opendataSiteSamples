@@ -46,7 +46,7 @@ This collection of elements is designed for use with Esri's opendata site <a hre
 
 <li> Replace dummy image links with your image links
     
-<li> Look for text that are in ALL CAPS and replace those with your content/text - including titles, paragraphs, web links, emails, etc.</li>
+<li> Look for text that are in ALL CAPS and replace those with your text - including titles, paragraphs, web links, emails, etc.</li>
     
 <li> Paste your final edited code sample into a <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_943AEBF0EEA74B60BEE4AEF1EF8FFC58">Text Card</a> in the open data <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_11FF2ACF716C4DB4BC9D9C7CEF7A5DC0">Row.</a></li>
 
