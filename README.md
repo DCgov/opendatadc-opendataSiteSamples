@@ -21,17 +21,18 @@ We are excited that you have chosen to lead and build an DC open data site. Just
 
 Gather Your Toolbox
 ----------
-Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use, 
+Open data sites use Bootstrap to create custom elements. We recommend familiarizing yourself with <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap</a> concepts. Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use, 
 
     <a href="https://www.jetbrains.com/pycharm/">Pycharm</a> <br>
     <a href="https://www.jetbrains.com/pycharm/">Another</a> <br>
     <a href="https://www.jetbrains.com/pycharm/">Another</a>
 
-Open data sites use Bootstrap to create custom elements. We recommend familiarizing yourself with <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap</a> concepts.
+Use these sizes for images,
 
-These image sizes are best,
-
-    Card thumbnails at 
+    Card Thumbnails at 200x300
+    Medallions at 102x102
+    Featured at 800x500
+    Row Banners are subjective, but larger is better. Open data sites are responsive and will adjust when browsers are resized. We've used 5300x1800 and 2100x400. 
 
     
 Shared Values
