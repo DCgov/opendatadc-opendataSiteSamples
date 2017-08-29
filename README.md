@@ -56,7 +56,7 @@ Shared Values
 <li> Data visualized is data downloadable. If the data isn't available, let's not have our users "window shop" here.</li>
 <li> Increase the use of existing content with links, narratives, agency sites, other open data sites, colleague web apps.</li>
 <li> Create opportunities for engagement. Create citizen buy-in to your story – “how is, has been or will… my say be used?”</li>
-<li> Author impactful narratives that story tell the data and illuminate the problem follow by resolution. It's okay to use pronouns.
+<li> Author impactful narratives to story tell the data and illuminate the problem follow by resolution. It's okay to use pronouns.</li>
 <li> No kitchen sink apps or pages with overloaded content. Rather, focused stories and supporting app.
 <li> There are 900+ data layers in <a href="http://opendata.dc.gov">opendata.dc.gov</a>. Consider it as a source.</li>
 
