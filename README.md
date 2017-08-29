@@ -2,13 +2,13 @@
 
 What is Here
 ----------
-The District of Columbia government has created its open data site using the Esri ArcGIS platform. This provides several widgets and cards for easy drag, drop and configuration of elements provided users have a mature ArcGIS Online organization containing data layers and web apps. In addition to these, DC government uses its own custom elements to further the open data site. Here you will find code samples for DC open data elements along with helpful steps to begin.
+The District of Columbia government has created its open data site using the <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Esri ArcGIS open data</a> platform. This provides several widget and card elements for easy drag, drop and configuration provided users have a mature ArcGIS Online organization containing data and web apps. In addition to these, DC government has created a collection of its own custom elements to further the open data site. Here you will find code samples for DC open data elements along with helpful steps to begin.
 
 Get Organized
 ----------
 We are excited that you have chosen to lead and build an DC open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data.  Begin by working with a smaller focus. You can always grow the site and its pages.
-
-    Identify an Open Data Team
+http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">
+    Identify an Open</a> Data Team
       Administrator - one admin who will build the site
       Content Editors - group who will author written narratives, create web apps, quality check
       Data Curators - group who will act as data owners
@@ -34,20 +34,21 @@ Use these sizes for images,
     Featured at 800x500
     Row Banners are subjective, but larger is better. Open data sites are responsive and will adjust when browsers are resized. We've used 5300x1800 and 2100x400. 
 
-    
+{INCLUDE ESRI STORY MAP TEMPLATES?}
+
+How to Use
+----------
+This collection of elements is designed for use with Esri's opendata site <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Layout Builder</a> To use simply drop into a text box and replace images, text, and link urls as needed.
+
 Shared Values
 ----------
 
-    <li> Data visualized is data downloadable - including spreadsheets. If the data isn't available, let's not have our users "window shop" here.</li>
-    <li> Increase the use of existing content – more links, narratives, agency sites, other open data sites, colleague web maps/apps.</li>
-    <li> Create opportunities for engagement open to citizen comment. Create citizen buy-in to your story – “how is, has been or will… my say be used?”</li>
-    <li> There are 900+ data layers in <a href="http://opendata.dc.gov">opendata.dc.gov</a>. Use it as a source. Let us know if you need data published to DC's Data Catalog.</li>
-<br>
-
-How to use
-----------
-This repository is a collection of samples designed for use with ESRI's opendata site builder. To use simply drop into a text box and replace images, text, and link urls as needed.
-
+<li> Data visualized is data downloadable - including spreadsheets. If the data isn't available, let's not have our users "window shop" here.</li>
+<li> Increase the use of existing content with more links, narratives, agency sites, other open data sites, colleague web maps/apps.</li>
+<li> Create opportunities for engagement open to citizen comment. Create citizen buy-in to your story – “how is, has been or will… my say be used?”</li>
+<li> Author impactful narratives that story tell the data and illuminate the problem follow by resolution. It's okay to use pronouns.
+<li> No kitchen sink apps or pages with overloaded content. Rather, focused stories and supporting app.
+<li> There are 900+ data layers in <a href="http://opendata.dc.gov">opendata.dc.gov</a>. Use it as a source. Let us know if you need data published to DC's Data Catalog.</li>
 
 Glossary
 ----------
