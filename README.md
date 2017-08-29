@@ -12,11 +12,16 @@ We are excited that you have chosen to lead and build an DC open data site. Just
       Administrator - one admin who will build the site
       Content Editors - group who will author written narratives, create web apps, quality check
       Data Curators - group who will act as data owners
-    
+
+
     Inventory Agency Content
       Data on http://opendata.dc.gov
       Apps by agency employees
       New data to curate
+
+Gather Your Toolbox
+Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use,
+
 
 Shared Values
 ----------
