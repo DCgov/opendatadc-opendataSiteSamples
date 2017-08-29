@@ -23,7 +23,7 @@ Gather Your Toolbox
 ----------
 Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use,
 
-    <a href="https://www.jetbrains.com/pycharm/">Pycharm</a>
+<a href="https://www.jetbrains.com/pycharm/">Pycharm</a>
 
     
 Shared Values
