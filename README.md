@@ -8,7 +8,7 @@ Get Organized
 ----------
 We are excited that you have chosen to lead and build an DC open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data.  Begin by working with a smaller focus. You can always grow the site and its pages.
 
-     Identify an Open Data Team
+   Identify an Open Data Team
 
 Shared Values
 ----------
