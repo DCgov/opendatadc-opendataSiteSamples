@@ -7,11 +7,11 @@ The District of Columbia government has created its open data site using the <a 
 Get Organized
 ----------
 We are excited that you have chosen to lead and build an DC open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data.  Begin by working with a smaller focus. You can always grow the site and its pages.
-http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">
-    Identify an Open</a> Data Team
-      Administrator - one admin who will build the site
-      Content Editors - group who will author written narratives, create web apps, quality check
-      Data Curators - group who will act as data owners
+
+    Identify an Open Data Team
+    Administrator - one admin who will build the site
+    Content Editors - group who will author written narratives, create web apps, quality check
+    Data Curators - group who will act as data owners
 
 
     Inventory Agency Content
