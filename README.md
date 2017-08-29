@@ -1,10 +1,14 @@
 # opendatadc-starterkit
 
-This repository is under construction, thank you for your patience.
-
-Introduction
+What is Here
 ----------
-We are excited that you have chosen to lead and build an open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data. The open data layout builder comes with many easily customizable cards. In addition to those, here you will find samples our open data team is recommending and requesting of you. We also recommend that you begin by thinking "small." You can always grow the site and its pages.
+The District of Columbia government has created its open data site using the Esri ArcGIS platform. This provides several widgets and cards for easy drag, drop and configuration of elements provided users have a mature ArcGIS Online organization containing data layers and web apps. In addition to these, DC government uses its own custom elements to further the open data site. Here you will find code samples for DC open data elements along with helpful steps to begin.
+
+Get Organized
+----------
+We are excited that you have chosen to lead and build an DC open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data.  Begin by working with a smaller focus. You can always grow the site and its pages.
+
+     Identify an Open Data Team
 
 Shared Values
 ----------
