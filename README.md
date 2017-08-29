@@ -101,9 +101,9 @@ Tips for Usage
 Tip | and Why
 ---|---
 Create a staging page| the layout builder does not have an undo feature, nor does it create back ups.
-Saving images| store your images on a dc.gov content manager or other approved source.
-Keep the comments| leave the comments in the sample code for any future admins to reference.
-Multi-testing| preview your site on multiple devices.
+Saving images| store images on a dc.gov content manager or other approved source.
+Keep the comments| these will help future admins to reference.
+Multi-testing| preview the site on multiple devices.
 Ask for peer review| we are a team, and no one is as smart as all of us.
 
 Contributing
