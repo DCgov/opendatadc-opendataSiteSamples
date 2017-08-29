@@ -38,7 +38,10 @@ We use PNG files for images. Use these sizes for images,
 
 How to Use
 ----------
-This collection of elements is designed for use with Esri's opendata site <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Layout Builder</a> To use simply drop into a text box and replace images, text, and link urls as needed.
+This collection of elements is designed for use with Esri's opendata site <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Layout Builder</a>. 
+
+    Start by copying the code samples into a text or hmtl text editor.
+    Each contains stepped comments identified by the To use simply drop into a text box and replace images, text, and link urls as needed.
 
 Shared Values
 ----------
