@@ -35,7 +35,13 @@ We use PNG files for images. Use these sizes for images,
     102 x 102 for Medallions
     800 x 500 for Featured Image
     
-    Row banner images are subjective, but larger is better. Sites are responsive so we've used 5300 x 1800 and 2100 x 400. 
+    Row banner images are subjective, but larger is better. Sites are responsive so we've used 5300 x 1800 and 2100 x 400.
+    
+Esri shares content to help you get moving so take a look at these. Find more at http://resources.esri.com, http://www.esri.com/videos,
+
+    <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Designing Your Site</a>
+    <a href="http://www.esri.com/videos/watch?videoid=EBwNntOx0n0&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=customizing-open-data">Customizing Open Data</a>
+    <a href="https://www.arcgis.com/home/item.html?id=f99fb5f7c91f4424b6ae1ca90678f58a">Create a Cascade Story map</a>
 
 <b>{INCLUDE ESRI STORY MAP TEMPLATES?}</b>
 
