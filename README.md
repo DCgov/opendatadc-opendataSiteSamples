@@ -44,8 +44,6 @@ Esri shares content to help you get moving so take a look at these. Find more at
 <a href="https://www.arcgis.com/home/item.html?id=f99fb5f7c91f4424b6ae1ca90678f58a">Create a Cascade Story Map</a><br>
 <a href="https://www.arcgis.com/home/item.html?id=da029c7670514be1b5a10b60825cd8da">Create a Story Map Journal</a>
 
-<b>{INCLUDE ESRI STORY MAP TEMPLATES?}</b>
-
 
 How to Use
 ----------
