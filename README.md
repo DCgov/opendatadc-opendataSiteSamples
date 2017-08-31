@@ -101,6 +101,7 @@ Tips for Usage
 Tip | and Why
 ---|---
 Create a staging page| the layout builder does not have an undo feature, nor does it create back ups.
+Think small| careful of overcrowding the home page, use pages for initiatives
 Saving images| store images on a dc.gov content manager or other approved source.
 Keep the comments| these will help future admins to reference.
 Multi-testing| preview the site on multiple devices.
