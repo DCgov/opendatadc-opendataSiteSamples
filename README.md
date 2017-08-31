@@ -25,9 +25,9 @@ Gather Your Toolbox
 ----------
 Open data sites use Bootstrap to create custom elements. We recommend familiarizing yourself with <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap</a> concepts. Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use, 
 
-    <a href="https://www.jetbrains.com/pycharm/">Pycharm</a> <br>
-    <a href="https://www.jetbrains.com/pycharm/">Another</a> <br>
-    <a href="https://www.jetbrains.com/pycharm/">Another</a>
+   <a href="https://www.jetbrains.com/pycharm/">Pycharm</a> <br>
+   <a href="https://www.jetbrains.com/pycharm/">Another</a> <br>
+   <a href="https://www.jetbrains.com/pycharm/">Another</a>
 
 We use PNG files for images. Use these sizes for images,
 
@@ -39,10 +39,10 @@ We use PNG files for images. Use these sizes for images,
     
 Esri shares content to help you get moving so take a look at these. Find more at http://resources.esri.com or http://www.esri.com/videos.
 
-   <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Designing Your Site</a>
-   <a href="http://www.esri.com/videos/watch?videoid=EBwNntOx0n0&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=customizing-open-data">Customizing Open Data</a>
-   <a href="https://www.arcgis.com/home/item.html?id=f99fb5f7c91f4424b6ae1ca90678f58a">Create a Cascade Story Pap</a>
-   <a href="https://www.arcgis.com/home/item.html?id=da029c7670514be1b5a10b60825cd8da">Create a Story Map Journal</a>
+<a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Designing Your Site</a><br>
+<a href="http://www.esri.com/videos/watch?videoid=EBwNntOx0n0&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=customizing-open-data">Customizing Open Data</a><br>
+<a href="https://www.arcgis.com/home/item.html?id=f99fb5f7c91f4424b6ae1ca90678f58a">Create a Cascade Story Map</a><br>
+<a href="https://www.arcgis.com/home/item.html?id=da029c7670514be1b5a10b60825cd8da">Create a Story Map Journal</a>
 
 <b>{INCLUDE ESRI STORY MAP TEMPLATES?}</b>
 
