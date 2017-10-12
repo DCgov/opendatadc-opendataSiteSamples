@@ -4,26 +4,86 @@
 ----------
 Files are currently under review due to ESRI open data sites, please see current issues for further information
 
-Introduction
+
+What is Here
 ----------
-This repository is a collection of samples designed for use with ESRI's opendata site builder. To use simply drop into a text box and replace images, text, and link urls as needed.
-
-This repository is under construction, thank you for your patience.
+The District of Columbia government has created its open data site using the <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Esri ArcGIS open data</a> platform. This provides several widget and card elements for easy drag, drop and configuration provided users have a mature ArcGIS Online organization containing data and web apps. In addition to these, DC government has created a collection of its own custom elements to further open data sites. Here you will find code samples for DC open data elements along with helpful steps to begin.
 
 
-How to use
+Get Organized
 ----------
-<b>Coming soon...</b>
+We are excited that you have chosen to lead and build a DC open data site. Just remember, your site's primary purpose is to be an <b>open data site</b> - explore, engage, educate and enrichment via data. Begin by working with a smaller focus. You can always grow the site and its pages.
 
- File | Description | Link
----|---|----
-3-cards.html| | <a href="img/3-cards.PNG">sample image</a>
-4-cards.html| | <a href="img/4-cards.PNG">sample image</a>
-5-medallions.html| | <a href="img/5-medallions.PNG">sample image</a>
-6-medallions.html| | <a href="img/6-medallions.PNG">sample image</a>
-footer-sample.html| | <a href="img/footer-sample.PNG">sample image</a>
-left_image-right_text-with-buttons.html| | <a href="img/left_image-right_test-with-buttons.PNG">sample image</a>
-top_w_bottom-left-right.html| | <a href="img/top_w_bottom-left-right.PNG">sample image</a>
+    Identify an Open Data Team
+        Administrator - one admin who will build and manage the site
+        Content Editors - group who will author written narratives, create web apps, quality check
+        Data Curators - group who will act as data owners, quality check and work with OCTO to publish
+        IT Leads - some agencies have developers or IT leads who may want to participate
+
+    Inventory Agency Content
+        Data on http://opendata.dc.gov
+        Apps by agency employees
+        New data to curate
+
+
+Gather Your Toolbox
+----------
+Open data sites use Bootstrap to create custom elements. We recommend familiarizing yourself with <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap</a> concepts. Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use,
+
+   <a href="https://www.jetbrains.com/pycharm/">Pycharm</a> <br>
+   <a href="https://www.jetbrains.com/pycharm/">Another</a> <br>
+   <a href="https://www.jetbrains.com/pycharm/">Another</a>
+
+We use PNG files for images. Use these sizes for images,
+
+    200 x 300 for Card Thumbnails
+    102 x 102 for Medallions
+    800 x 500 for Featured Image
+
+    Row banner images are subjective, but larger is better. Sites are responsive so we've used 5300 x 1800 and 2100 x 400.
+
+Esri shares content to help you get moving so take a look at these. Find more at http://resources.esri.com or http://www.esri.com/videos.
+
+<a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Designing Your Site</a><br>
+<a href="http://www.esri.com/videos/watch?videoid=EBwNntOx0n0&channelid=UC_yE3TatdZKAXvt_TzGJ6mw&title=customizing-open-data">Customizing Open Data</a><br>
+<a href="https://www.arcgis.com/home/item.html?id=f99fb5f7c91f4424b6ae1ca90678f58a">Create a Cascade Story Map</a><br>
+<a href="https://www.arcgis.com/home/item.html?id=da029c7670514be1b5a10b60825cd8da">Create a Story Map Journal</a>
+
+
+How to Use
+----------
+This collection of elements is designed for use with Esri's opendata site <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Layout Builder</a>. Elements are created within <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_943AEBF0EEA74B60BEE4AEF1EF8FFC58">Text Cards</A> and organized into <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_11FF2ACF716C4DB4BC9D9C7CEF7A5DC0">Rows.</a>
+
+<li> Start by copying the code samples into a text, hmtl text editor or prefered staging area</li>
+
+<li> Follow the stepped comments identified by the exclamation marks</li>
+
+<li> Replace dummy image links with your image links
+
+<li> Look for text that are in ALL CAPS and replace those with your text - including titles, paragraphs, web links, emails, etc.</li>
+
+<li> Paste your final edited code sample into a <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_943AEBF0EEA74B60BEE4AEF1EF8FFC58">Text Card</a> in the open data <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm#ESRI_SECTION1_11FF2ACF716C4DB4BC9D9C7CEF7A5DC0">Row.</a></li>
+
+
+Shared Values
+----------
+
+<li> Data visualized is data downloadable. If the data isn't available, let's not have our users "window shop" here.</li>
+<li> Increase the use of existing content with links, narratives, agency sites, other open data sites, colleague web apps.</li>
+<li> Create opportunities for engagement. Create citizen buy-in to your story ? ?how is, has been or will? my say be used??</li>
+<li> Author impactful narratives to story tell the data and illuminate the problem follow by resolution. It's okay to use pronouns.</li>
+<li> No kitchen sink apps or pages with overloaded content. Rather, focused stories and supporting app.
+<li> There are 900+ data layers in <a href="http://opendata.dc.gov">opendata.dc.gov</a>. Consider it as a source.</li>
+
+
+Must Haves
+----------
+We are one DC government. Let's do our best to provide cohesive open data sites. Please make sure these are included in your site,
+
+<li> All app cards need a data download link</li>
+<li> The third column in footer element needs to remain, linking to important dc.gov resources</li>
+<li> On homepage, the Tools for Building & Development row needs to remain however we can work with placement and coloring</li>
+
 
 Glossary
 ----------
@@ -45,14 +105,17 @@ src=""| Used in conjunction with 'img' tag; place url for img link in opening ta
 alt=""| Allows for 'alt' text to be included; important to readability of pages for page readers
 col-'size'-'value'|The way Bootstrap defines the page behavior; 'size' defines the screen size where the behavior occurs; 'value' defines how much of the page the object fills
 
-Advanced Usage
+Tips for Usage
 ----------
-While these samples should allow for a number of the elements seen on DC's Open Data pages to be recreated there are certain aspects that may require some additional modifications to properly scale based on your desired elements.
-The ESRI open data sites are based on bootstrap and use it for much of their reactivity. To allow for maximum configurability we recommend using just code within a single text box. While ESRI's tools can be very helpful, those experienced with HTML may find it easier to work almost exclusively with the HTML.
 
-A few specific recommendations for those working with the html:
--when placing an image alongside text the use of either sm, md, or lg as break points may be best based on your image size, we recommend trying each to see what works best for your specific layout
--while many of the samples assume equal sections for each element, if a single element is intended to stand out or take more space, we recommend playing with the way the bootstrap columns are split among the elements to achieve your desired layout
+Tip | and Why
+---|---
+Create a staging page| the layout builder does not have an undo feature, nor does it create back ups.
+Think small| careful of overcrowding the home page, use pages for initiatives
+Saving images| store images on a dc.gov content manager or other approved source.
+Keep the comments| these will help future admins to reference.
+Multi-testing| preview the site on multiple devices.
+Ask for peer review| we are a team, and no one is as smart as all of us.
 
 Contributing
 ------------
