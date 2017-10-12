@@ -1,6 +1,6 @@
 # opendatadc-starterkit
 
-<b>Important</b>
+<b>Important, There is an Updated Version</b>
 ----------
 Files are currently under review due to ESRI open data sites, please see current issues for further information
 
