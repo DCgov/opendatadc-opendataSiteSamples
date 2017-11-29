@@ -2,7 +2,7 @@
 
 What is Here
 ----------
-The District of Columbia government has created its open data site using the <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Esri ArcGIS open data</a> platform. This provides several widget and card elements for easy drag, drop and configuration provided users have a mature ArcGIS Online organization containing data and web apps. In addition to these, DC government has created a collection of its own custom elements to further open data sites. Here you will find code samples for DC open data elements along with helpful steps to begin.
+The District of Columbia government has created its open data site using the <a href="http://doc.arcgis.com/en/hub/sites/design-the-layout-of-your-open-data-site.htm">Esri ArcGIS open data</a> platform. This provides several widget and card elements for easy drag, drop and configuration provided users have a mature ArcGIS Online organization containing data and web apps. In addition to these, DC government has created a collection of its own custom elements. Here you will find code samples for DC open data elements along with helpful steps to begin.
 
 
 Get Organized
@@ -31,7 +31,7 @@ Open data sites use Bootstrap to create custom elements. We recommend familiariz
 
 We use PNG files for images. Use these sizes for images,
 
-    200 x 300 for Card Thumbnails
+    480 x 270 for Card Thumbnails
     102 x 102 for Medallions
     800 x 500 for Featured Image
     
@@ -80,9 +80,6 @@ We are one DC government. Let's do our best to provide cohesive open data sites.
 <li> On homepage, the Tools for Building & Development row needs to remain however we can work with placement and coloring</li>
 
 
-Glossary
-----------
-*Under Construction - thank you for your understanding*
 
  Term | Use
 ---|---
