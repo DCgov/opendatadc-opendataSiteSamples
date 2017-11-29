@@ -1,0 +1,128 @@
+<!--This sample code will create a title, subtitle and four center-aligned cards. The cards are used to highlight web apps and related downloadable data. The cards will contain one hyperlinked image, one hyperlink text and one download button. Edit text in CAPS with your content.-->
+
+<!--header-->
+<h1 class="text-center">TITLE</h1>
+<h4 class="text-center">SUBTITLE</h4>
+<br>
+<br>
+<!--all cards begin here. edit CAPS text with your content.-->
+<ul class="cards-list">
+    <!--first card begins here with spacing rules for the specific item-->
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+        <!--first card specifications-->
+            <div class="card center-block" style="background-color: #ededed; height:10%">
+                <a target="_blank" href="WEBAPP LINK HERE">
+                <!--image at top of card at 200x300 size-->
+                    <img
+                    src="https://dummyimage.com/200x133"
+                    alt="Card Thumbnail">
+                </a>
+                <hr>
+                <br>
+                <br>
+                <!--text below card maximum 90 characters-->
+                <p style="color:#333">
+                    <a target="_blank"
+                       href="WEBAPP LINK HERE">
+                    A SHORT CALL TO ACTION
+                    </a>
+                    <br>
+                    <br>
+                    <br>
+                    <!--download data button in card-->
+                    <a href="DATA LINK HERE"
+                       class="btn btn-default open-btn">
+                      Download Data
+                    </a>
+                </p>
+            </div>
+    </li>
+    <!--second card begins here with spacing rules for the specific item-->
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+        <!--second card specifications-->
+     <div class="card center-block" style="background-color: #ededed; height:10%">
+                <a target="_blank" href="WEBAPP LINK HERE">
+                <!--image at top of card at 200x300 size-->
+                    <img
+                    src="https://dummyimage.com/200x133"
+                    alt="Card Thumbnail">
+                </a>
+                <hr>
+                <br>
+                <br>
+                  <!--text below card maximum 90 characters-->
+                <p style="color:#333">
+                    <a target="_blank"
+                       href="WEBAPP LINK HERE">
+                    A SHORT CALL TO ACTION
+                    </a>
+                    <br>
+                    <br>
+                    <br>
+                    <!--download data button in card-->
+                    <a href="DATA LINK HERE"
+                       class="btn btn-default open-btn">
+                        Download Data
+                    </a>
+                </p>
+            </div>
+    </li>
+    <!--third card begins here with spacing rules for the specific item-->
+ <li class="col-xs-12 col-sm-6 col-lg-3">
+        <!--third card specifications-->
+  <div class="card center-block" style="background-color: #ededed; height:10%;">
+                <a target="_blank" href="WEBAPP LINK HERE">
+                <!--image at top of card at 200x300 size-->
+                    <img
+                    src="https://dummyimage.com/200x133"
+                    Alt="Card Thumbnail"></a>
+                <hr>
+
+                <br>
+                <br>
+                <!--text below card maximum 90 characters-->
+                <p style="color:#333">
+                    <a target="_blank"
+                    href="WEBAPP LINK HERE">
+                    A SHORT CALL TO ACTION
+                    </a>
+                    <br>
+                    <br>
+                    <br>
+                    <!--download data button in card-->
+                    <a href="DATA LINK HERE"
+                       class="btn btn-default open-btn">
+                        Download Data
+                    </a>
+                </p>
+            </div>
+    </li>
+    <!--fourth card begins here with spacing rules for the specific item-->
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+    <!--third card specifications-->
+        <div class="card center-block" style="background-color: #ededed; height:10%">
+            <a target="_blank" href="WEBAPP LINK HERE">
+            <!--image at top of card at 200x300 size-->
+                <img
+            src="https://dummyimage.com/200x133"
+            alt="Card Thumbnail"></a>
+            <hr>
+            <br>
+            <br>
+            <p style="color:#333">
+                <a target="_blank"
+                   href="WEBAPP LINK HERE">
+                    A SHORT CALL TO ACTION
+                </a>
+                <br>
+                <br>
+                <br>
+                <!--download data button in card-->
+                <a href="DATA LINK HERE"
+                   class="btn btn-default open-btn">
+                    Download Data
+                </a>
+            </p>
+        </div>
+    </li>
+</ul>
