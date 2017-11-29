@@ -1,0 +1,15 @@
+<!--This code is used on the http://opendata.dc.gov footer section and can be used anywhere else. It links back to the District's data policy, terms of use, etc-->
+
+<div>
+<p>Learn More</p>
+<a href="https://octo.dc.gov/page/district-columbia-data-policy" style="color:white" target="_blank">DC Government Data Policy</a>
+<br>
+<a href="https://dc.gov/node/939602" style="color:white" target="_blank">Data Terms of Use</a>
+<br>
+<a href="http://opendata.dc.gov" style="color:white" target="_blank">http://opendata.dc.gov</a>
+<br>
+<a href="https://octo.dc.gov/blog/meet-chief-data-officer-barney-krucoff" style="color:white" target="_blank">Meet the Chief Data Officer</a>
+<br>
+<img src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/Bird_tweet_tweeting_twitter_logo-32.png">
+<a href="https://twitter.com/opendatadc" style="color:white" target="_blank">@OpenDataDC on Twitter</a>
+</div>
