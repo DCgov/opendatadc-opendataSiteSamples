@@ -1,128 +1,87 @@
-<!--This sample code will create a title, subtitle and four center-aligned cards. The cards are used to highlight web apps and related downloadable data. The cards will contain one hyperlinked image, one hyperlink text and one download button. Edit text in CAPS with your content.-->
+<!--This sample code will create a title, subtitle and four center-aligned cards. Edit text in CAPS with your content. The cards are used to highlight web apps and downloadable data used to create the app. All apps must provide data download. The cards will contain one image with caption, a hyperlinked title text, short tag line and two buttons for data download and opening web app.-->
 
-<!--header-->
 <h1 class="text-center">TITLE</h1>
 <h4 class="text-center">SUBTITLE</h4>
 <br>
 <br>
 <!--all cards begin here. edit CAPS text with your content.-->
 <ul class="cards-list">
-    <!--first card begins here with spacing rules for the specific item-->
+<!--first card begins here with spacing rules for the specific item-->
     <li class="col-xs-12 col-sm-6 col-lg-3">
-        <!--first card specifications-->
-            <div class="card center-block" style="background-color: #ededed; height:10%">
-                <a target="_blank" href="WEBAPP LINK HERE">
-                <!--image at top of card at 200x300 size-->
-                    <img
-                    src="https://dummyimage.com/200x133"
-                    alt="Card Thumbnail">
-                </a>
-                <hr>
-                <br>
-                <br>
-                <!--text below card maximum 90 characters-->
-                <p style="color:#333">
-                    <a target="_blank"
-                       href="WEBAPP LINK HERE">
-                    A SHORT CALL TO ACTION
-                    </a>
-                    <br>
-                    <br>
-                    <br>
-                    <!--download data button in card-->
-                    <a href="DATA LINK HERE"
-                       class="btn btn-default open-btn">
-                      Download Data
-                    </a>
-                </p>
-            </div>
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="IMAGE CAPTION" class="card-image" src="IMAGE WEB URL">
+      <div class="card-image-caption">
+        Residential House in Zone R
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://dcgis.maps.arcgis.com/apps/MapJournal/index.html?appid=ae5830535a384a7f9ae40527f607b32e" target="_blank">Zoning Regulations</a></h4>
+      <p>Explore the zone districts and related areas established in 2016.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=zr16">Data</a><a class="btn btn-primary" href="http://dcgis.maps.arcgis.com/apps/MapJournal/index.html?appid=ae5830535a384a7f9ae40527f607b32e" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
     </li>
-    <!--second card begins here with spacing rules for the specific item-->
     <li class="col-xs-12 col-sm-6 col-lg-3">
-        <!--second card specifications-->
-     <div class="card center-block" style="background-color: #ededed; height:10%">
-                <a target="_blank" href="WEBAPP LINK HERE">
-                <!--image at top of card at 200x300 size-->
-                    <img
-                    src="https://dummyimage.com/200x133"
-                    alt="Card Thumbnail">
-                </a>
-                <hr>
-                <br>
-                <br>
-                  <!--text below card maximum 90 characters-->
-                <p style="color:#333">
-                    <a target="_blank"
-                       href="WEBAPP LINK HERE">
-                    A SHORT CALL TO ACTION
-                    </a>
-                    <br>
-                    <br>
-                    <br>
-                    <!--download data button in card-->
-                    <a href="DATA LINK HERE"
-                       class="btn btn-default open-btn">
-                        Download Data
-                    </a>
-                </p>
-            </div>
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Ridge Street, Ginkgo Trees" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/fb1baa4bc1094243be98fd63d7d1380c/data">
+      <div class="card-image-caption">
+        Ridge Street, Ginkgo Trees
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="https://treewatering.ddot.dc.gov/treewatering/" target="_blank">Find Your Tree</a></h4>
+      <p>Keep the districts street canopy healthy, safe, and growing.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets/urban-forestry-street-trees">Data</a><a class="btn btn-primary" href="https://treewatering.ddot.dc.gov/treewatering/" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
     </li>
-    <!--third card begins here with spacing rules for the specific item-->
- <li class="col-xs-12 col-sm-6 col-lg-3">
-        <!--third card specifications-->
-  <div class="card center-block" style="background-color: #ededed; height:10%;">
-                <a target="_blank" href="WEBAPP LINK HERE">
-                <!--image at top of card at 200x300 size-->
-                    <img
-                    src="https://dummyimage.com/200x133"
-                    Alt="Card Thumbnail"></a>
-                <hr>
-
-                <br>
-                <br>
-                <!--text below card maximum 90 characters-->
-                <p style="color:#333">
-                    <a target="_blank"
-                    href="WEBAPP LINK HERE">
-                    A SHORT CALL TO ACTION
-                    </a>
-                    <br>
-                    <br>
-                    <br>
-                    <!--download data button in card-->
-                    <a href="DATA LINK HERE"
-                       class="btn btn-default open-btn">
-                        Download Data
-                    </a>
-                </p>
-            </div>
-    </li>
-    <!--fourth card begins here with spacing rules for the specific item-->
     <li class="col-xs-12 col-sm-6 col-lg-3">
-    <!--third card specifications-->
-        <div class="card center-block" style="background-color: #ededed; height:10%">
-            <a target="_blank" href="WEBAPP LINK HERE">
-            <!--image at top of card at 200x300 size-->
-                <img
-            src="https://dummyimage.com/200x133"
-            alt="Card Thumbnail"></a>
-            <hr>
-            <br>
-            <br>
-            <p style="color:#333">
-                <a target="_blank"
-                   href="WEBAPP LINK HERE">
-                    A SHORT CALL TO ACTION
-                </a>
-                <br>
-                <br>
-                <br>
-                <!--download data button in card-->
-                <a href="DATA LINK HERE"
-                   class="btn btn-default open-btn">
-                    Download Data
-                </a>
-            </p>
-        </div>
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Graffiti Removal" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/393b81b31fc24ec7b9ce118a064425c9/data">
+      <div class="card-image-caption">
+        Graffiti Removal Service
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://311.map.dc.gov" target="_blank">Service Requests</a></h4>
+      <p>See 311 service requests submitted by citizens in the last 30 days.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets?q=service%20requests">Data</a><a class="btn btn-primary" href="http://311.map.dc.gov" 
+target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+    <li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+      <img alt="Wilson Building, DC" class="card-image" src="http://dcgis.maps.arcgis.com/sharing/rest/content/items/2f21fac13e54451dbaf320b990c62c2d/data">
+      <div class="card-image-caption">
+        John A. Wilson Building, DC
+      </div>
+    </div>
+    <div class="card-content">
+      <h4><a href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=31cb84a467df4fa4a1515cd2134a0eb3" target="_blank">District Gov Property</a></h4>
+      <p>Research properties owned, operated, and or managed by DC.</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <a class="btn btn-default" href="http://opendata.dc.gov/datasets/district-government-land-owned-operated-and-or-managed">Data</a><a class="btn btn-primary" href="http://dcgis.maps.arcgis.com/apps/webappviewer/index.html?id=31cb84a467df4fa4a1515cd2134a0eb3" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
     </li>
 </ul>
