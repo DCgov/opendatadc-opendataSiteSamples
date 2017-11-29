@@ -1,0 +1,87 @@
+<!--The sample code uses three center-aligned cards to highlight web apps and downloadable data used to create the app. All apps must provide data download. The cards will contain one image with caption, a hyperlinked title text, short call to action subtitle and two buttons for data download and opening web app.-->
+
+<h1 class="text-center">TITLE</h1>
+<h4 class="text-center">SUBTITLE</h4>
+<br>
+<br>
+<!--all cards begin here. edit CAPS text with your content.-->
+<ul class="cards-list">
+<!--first card begins here with spacing rules for the specific item-->
+    <li class="col-sm-12 col-md-4 col-lg-3">
+    <!--first card specifications for images and links-->
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+       <!--image at top of card sized at 480X270 size-->
+      <img alt="IMAGE HOVER TEXT" class="card-image" src="HTTPS://DUMMYIMAGE.COM/480X270">
+      <!--image caption maximum 33 characters-->
+      <div class="card-image-caption">
+        IMAGE CAPTION IN TRANSPARENT BOX
+      </div>
+    </div>
+    <div class="card-content">
+    <!--web app title link maximum 19 characters-->
+      <h4><a href="WEB APP LINK" target="_blank">WEB APP TITLE</a></h4>
+      <!--web app subtitle must be two lines and read as a call to action, maximum 67 characters-->
+      <p>WEB APP SUBTITLE</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <!--web app buttons for data download and view app-->
+        <a class="btn btn-default" href="DATA DOWNLOAD LINK">Data</a><a class="btn btn-primary" href="WEB APP LINK" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>
+<!--second card begins here with spacing rules for the specific item-->
+    <li class="col-sm-12 col-md-4 col-lg-3">
+    <!--second card specifications for images and links-->
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+       <!--image at top of card sized at 480X270 size-->
+      <img alt="IMAGE HOVER TEXT" class="card-image" src="HTTPS://DUMMYIMAGE.COM/480X270">
+      <!--image caption maximum 33 characters-->
+      <div class="card-image-caption">
+        IMAGE CAPTION IN TRANSPARENT BOX
+      </div>
+    </div>
+    <div class="card-content">
+    <!--web app title link maximum 19 characters-->
+      <h4><a href="WEB APP LINK" target="_blank">WEB APP TITLE</a></h4>
+      <!--web app subtitle must be two lines and read as a call to action, maximum 67 characters-->
+      <p>WEB APP SUBTITLE</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <!--web app buttons for data download and view app-->
+        <a class="btn btn-default" href="DATA DOWNLOAD LINK">Data</a><a class="btn btn-primary" href="WEB APP LINK" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+    </li>    
+</ul>
+<!--third card begins here with spacing rules for the specific item-->
+    <li class="col-sm-12 col-md-4 col-lg-3">
+    <!--third card specifications for images and links-->
+            <div class="calcite-web">
+  <div class="card-base">
+    <div class="card-image-wrap">
+       <!--image at top of card sized at 480X270 size-->
+      <img alt="IMAGE HOVER TEXT" class="card-image" src="HTTPS://DUMMYIMAGE.COM/480X270">
+      <!--image caption maximum 33 characters-->
+      <div class="card-image-caption">
+        IMAGE CAPTION IN TRANSPARENT BOX
+      </div>
+    </div>
+    <div class="card-content">
+    <!--web app title link maximum 19 characters-->
+      <h4><a href="WEB APP LINK" target="_blank">WEB APP TITLE</a></h4>
+      <!--web app subtitle must be two lines and read as a call to action, maximum 67 characters-->
+      <p>WEB APP SUBTITLE</p>
+      <div aria-label="actions" class="btn-group btn-group-justified" role="group">
+        <!--web app buttons for data download and view app-->
+        <a class="btn btn-default" href="DATA DOWNLOAD LINK">Data</a><a class="btn btn-primary" href="WEB APP LINK" target="_blank" style="color:white">View</a>
+      </div>
+    </div>
+  </div>
+</div>
+</li>
