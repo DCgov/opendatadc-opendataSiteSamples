@@ -80,6 +80,8 @@ We are one DC government. Let's do our best to provide cohesive open data sites.
 <li> On homepage, the Tools for Building & Development row needs to remain however we can work with placement and coloring</li>
 
 
+Glossary
+--------
 
  Term | Use
 ---|---
