@@ -1,0 +1,8 @@
+<!--The center-aligned cards are used to highlight web apps and downloadable data used to create the app. All apps must provide data download. The cards will contain one image with caption, a hyperlinked title text, short call to action subtitle and two buttons for data download and opening web app.-->
+<!--specifications-->
+
+<!--image at top of card sized at 480X270 size-->
+<!--image caption maximum 33 characters-->
+<!--web app title link maximum 19 characters-->
+<!--web app subtitle must be two lines and read as a call to action, maximum 67 characters-->
+<!--web app buttons must include link for data download and view app-->
