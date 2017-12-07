@@ -25,9 +25,10 @@ Gather Your Toolbox
 ----------
 Open data sites use Bootstrap to create custom elements. We recommend familiarizing yourself with <a href="https://www.w3schools.com/bootstrap/default.asp">Bootstrap</a> concepts. Edits to these code samples can be done in a standard text document editor such as Notepad in Windows, or in Microsoft Word. We however recommend using an html editor. Here are some easy to use,
 
-   <a href="https://www.jetbrains.com/pycharm/">Pycharm</a> <br>
-   <a href="https://www.jetbrains.com/pycharm/">Another</a> <br>
-   <a href="https://www.jetbrains.com/pycharm/">Another</a>
+   <a href="https://code.visualstudio.com/">Visual Studio Code</a> <br>
+   <a href="https://www.jetbrains.com/pycharm/">Atom</a> <br>
+   <a href="https://www.jetbrains.com/pycharm/">Pycharm</a>
+
 
 We use PNG files for images. Use these sizes for images,
 
@@ -104,11 +105,11 @@ Tips for Usage
 
 Tip | and Why
 ---|---
-Create a staging page| the layout builder does not have an undo feature, nor does it create back ups.
-Think small| careful of overcrowding the home page, use pages for initiatives
+Create a staging page| the layout builder does not have an undo feature or auto-save, we recommend testing out new elements on a staging page and only adding them to your main page when they are ready.
+Think small| be careful not to overcrowd the home page and consider instead using pages for initiatives and other more in depth content.
 Saving images| store images on a dc.gov content manager or other approved source.
-Keep the comments| these will help future admins to reference.
-Multi-testing| preview the site on multiple devices.
+Keep the comments| comment text, between <-- and -->, allows for instruction and explanation in the code. Make sure to include the commented text for future admin.
+Testing| preview the site on multiple browsers, across different screen sizes, operating systems, and devices to help insure that content doesn't break for certain groups of users.
 Ask for peer review| we are a team, and no one is as smart as all of us.
 
 Contributing
