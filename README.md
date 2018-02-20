@@ -1,4 +1,4 @@
-# opendatadc-starterkit
+# OpenData.dc.gov site Code Snippets
 
 What is Here
 ----------
