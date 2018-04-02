@@ -1,0 +1,71 @@
+<!--The sample code uses four center-aligned cards to highlight downloadable data. The cards will contain a hyperlinked title text, short description and one button linking to data on Open Data DC.-->
+
+<!--all cards begin here. edit CAPS text with your content.-->
+
+<ul class="cards-list">
+<!--first card begins here.-->
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+<div class="card-base card-bar-blue-darl">
+<div class="card-content">
+<h4>TITLE</h4>
+<!--use the same character/word counts for each card summary for best alignment.-->
+<p>BRIEF SUMMARY</p>
+<!--button for data download-->
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="DATA DOWNLOAD LINK">Show Me Data</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+<!--second card begins here.-->
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+<div class="card-base card-bar-blue-darl">
+<div class="card-content">
+<h4>TITLE</h4>
+<!--use the same character/word counts for each card summary for best alignment.-->
+<p>BRIEF SUMMARY</p>
+<!--button for data download-->
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="DATA DOWNLOAD LINK">Show Me Data</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+<!--third card begins here.-->
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+<div class="card-base card-bar-blue-darl">
+<div class="card-content">
+<h4>TITLE</h4>
+<p>BRIEF SUMMARY</p>
+<!--button for data download-->
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="DATA DOWNLOAD LINK">Show Me Data</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+<!--fourth card begins here.-->
+<li class="col-xs-12 col-sm-6 col-lg-3">
+<div class="calcite-web">
+<div class="card-base card-bar-blue-darl">
+<div class="card-content">
+<h4>TITLE</h4>
+<p>BRIEF SUMMARY</p>
+<!--button for data download-->
+<div aria-label="actions" class="btn-group btn-group-justified" role="group">
+<a class="btn btn-default" href="DATA DOWNLOAD LINK">Show Me Data</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
