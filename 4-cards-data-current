@@ -8,7 +8,7 @@
 <div class="calcite-web">
 <div class="card-base card-bar-blue-darl">
 <div class="card-content">
-<h4>TITLE</h4>
+<h4>DATASET TITLE</h4>
 <!--use the same character/word counts for each card summary for best alignment.-->
 <p>BRIEF SUMMARY</p>
 <!--button for data download-->
@@ -25,7 +25,7 @@
 <div class="calcite-web">
 <div class="card-base card-bar-blue-darl">
 <div class="card-content">
-<h4>TITLE</h4>
+<h4>DATASET TITLE</h4>
 <!--use the same character/word counts for each card summary for best alignment.-->
 <p>BRIEF SUMMARY</p>
 <!--button for data download-->
@@ -42,7 +42,7 @@
 <div class="calcite-web">
 <div class="card-base card-bar-blue-darl">
 <div class="card-content">
-<h4>TITLE</h4>
+<h4>DATASET TITLE</h4>
 <p>BRIEF SUMMARY</p>
 <!--button for data download-->
 <div aria-label="actions" class="btn-group btn-group-justified" role="group">
@@ -58,7 +58,7 @@
 <div class="calcite-web">
 <div class="card-base card-bar-blue-darl">
 <div class="card-content">
-<h4>TITLE</h4>
+<h4>DATASET TITLE</h4>
 <p>BRIEF SUMMARY</p>
 <!--button for data download-->
 <div aria-label="actions" class="btn-group btn-group-justified" role="group">
