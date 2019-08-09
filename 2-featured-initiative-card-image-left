@@ -1,0 +1,14 @@
+<div class="col-xs-12">
+<div class="calcite-web">
+<div class="card-base card-wide">
+  <div class="card-wide-image-wrap">
+    <img alt="IMAGE TEXT" class="card-wide-image" src="https://IMAGE WEB URL">
+  </div>
+  <div class="card-content">
+    <h4><a href="https://INITIATIVE WEB URL">INITIATIVE TITLE</a></h4>
+    <p>Use this space to briefly describe, introduce, your initiative. Two to four sentences should be enough.</p>
+<span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span><br><h6>Include a tag line or action statement.</h6>
+  </div>
+</div>
+</div>
+</div>
