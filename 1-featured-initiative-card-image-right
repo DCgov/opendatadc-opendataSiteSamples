@@ -2,13 +2,13 @@
 <div class="calcite-web">
 <div class="card-base card-wide">
 <div class="card-content">
-<h4><a href="https://#">Initiative Title</a></h4>
+<h4><a href="https://INITIATIVE WEB URL">INITIATIVE TITLE</a></h4>
 <p>Here is where you will briefly describe the initiative. Two or three sentences should be fine.</p>
 <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span> <span class="glyphicon glyphicon-star"></span><br><h6>Include a tag line or action text.</h6>
 </div>
 <div class="card-wide-image-wrap">
-<img alt="image text" class="card-wide-image"
-src="https://insert initiative web url">
+<img alt="IMAGE TEXT" class="card-wide-image"
+src="https://IMAGE WEB URL">
 </div>
 </div>
 </div>
